@@ -1,3 +1,3 @@
 # deepdrink
 
-Look at DeepDrink-BasicModel.ipynb.
+Look at DeepDrink-BasicModel-Final.ipynb.
